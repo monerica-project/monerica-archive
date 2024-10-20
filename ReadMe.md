@@ -1,3 +1,1 @@
-# Monerica Archive
-
-This repository contains snapshots of [Monerica.com](https://monerica.com/) in case the website goes offline. 
+The purpose of this repo has been replaced by: https://github.com/monerica-project/Pages
